@@ -1,8 +1,7 @@
-﻿namespace Functions.Tests
+﻿namespace Functions.Tests;
+
+public enum LoggerTypes
 {
-    public enum LoggerTypes
-    {
-        Null,
-        List
-    }
+    Null,
+    List
 }
