@@ -1,5 +1,5 @@
-using System.Reflection;
 using Microsoft.Azure.WebJobs.Extensions.OpenApi.Core.Configurations;
+using System.Reflection;
 
 namespace SantoshGantiHomeLab.Configurations;
 

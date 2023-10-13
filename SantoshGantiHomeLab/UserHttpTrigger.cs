@@ -1,4 +1,3 @@
-using System.Net;
 using AutoFixture;
 using Microsoft.Azure.Functions.Worker;
 using Microsoft.Azure.Functions.Worker.Extensions.OpenApi.Configurations;
@@ -10,6 +9,7 @@ using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
 using SantoshGantiHomeLab.Headers;
 using SantoshGantiHomeLab.Models;
+using System.Net;
 
 namespace SantoshGantiHomeLab;
 
